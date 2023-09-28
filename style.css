@@ -1,0 +1,24 @@
+body{
+    background-color: #e2c8ff;
+    margin: 0;
+}
+
+h1{
+    text-shadow: rgb(201, 86, 255) 2px 2px 2px;
+    color: rgb(140, 5, 158);
+    text-align: center;
+    background-color: rgb(222, 137, 248);
+    margin: 0;
+    font-size: 55px;
+}
+
+form{
+    text-align: center;
+    background-color: #e299ff;
+    font-size: 20px;
+}
+
+label{
+    color: #8622ad;
+    font-family: Arial, Helvetica, sans-serif;
+}
